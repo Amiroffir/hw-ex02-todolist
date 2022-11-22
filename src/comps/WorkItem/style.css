@@ -1,0 +1,7 @@
+.card {
+  min-width: 600px !important;
+  max-width: 600px !important;
+}
+h5 {
+  padding-bottom: 5px;
+}
